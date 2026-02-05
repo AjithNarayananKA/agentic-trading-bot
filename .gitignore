@@ -4,3 +4,4 @@ atb_venv
 build/
 dist/
 __pycache__/
+logs
