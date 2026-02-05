@@ -1,2 +1,6 @@
 .env
 atb_venv
+*.egg-info/
+build/
+dist/
+__pycache__/
